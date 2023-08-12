@@ -1,0 +1,12 @@
+
+20230731	09:43:40	e10af800-c0bc-4270-a742-9dcf66ceb14b	Error: Not allowed by CORS
+20230801	08:16:49	cd44e15f-1af7-460a-8121-90e9d50b6c2f	ReferenceError: path is not defined
+20230801	08:17:11	585cb44f-2adc-43e1-a67e-b8549fa07d71	ReferenceError: path is not defined
+20230801	08:17:28	ee52ca5d-a37e-4445-b45c-502596b47e91	ReferenceError: path is not defined
+20230801	08:18:33	727da75c-76dd-4898-a9c8-465b9e2332e3	ReferenceError: path is not defined
+20230801	08:18:34	a7da7630-48ed-4116-9e5b-6c2a8b41a18e	ReferenceError: path is not defined
+20230801	08:23:24	f444624e-1be0-4c5a-9825-a15c3ab68093	ReferenceError: path is not defined
+20230801	08:23:26	6d700da0-2209-4344-bd87-c3daddf34bc3	ReferenceError: path is not defined
+20230801	09:00:32	a71c0780-4f76-480e-b69e-bfb00daf5a6b	SyntaxError: Unexpected string in JSON at position 7
+20230801	17:31:22	88c936a3-e341-4e63-bb85-7e1db48d97f3	ReferenceError: newEMployee is not defined
+20230805	11:05:48	7af8e98b-5258-420d-89e7-56895a5168aa	SyntaxError: Unexpected token } in JSON at position 22
